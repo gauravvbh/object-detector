@@ -6,7 +6,7 @@
 
 **Object Detector Cam is a Next.js application that utilizes TensorFlow.js and the COCO-SSD model for real-time object detection using a webcam and static image uploads. This project provides an interactive way to detect objects in both live video and uploaded images.**
 
-The app will be available at [Live Link](https://ai-mock-interviewer-eta.vercel.app) 🎉.
+The app will be available at [Live Link](https://object-detector-zeta.vercel.app/) 🎉.
 
 ---
 
@@ -40,8 +40,8 @@ The app will be available at [Live Link](https://ai-mock-interviewer-eta.vercel.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/object-detector-cam.git
-   cd object-detector-cam
+   git clone https://github.com/gauravvbh/object-detector.git
+   cd object-detector
    ```
 2. Install dependencies:
    ```bash
@@ -103,4 +103,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Gaurav](https://github.com/your-username)
+[Gaurav](https://github.com/gauravvbh)
