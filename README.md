@@ -58,7 +58,7 @@ The app will be available at [Live Link](https://object-detector-zeta.vercel.app
 ## Project Structure
 
 ```
-📂 object-detector-cam
+📂 object-detector
 ├── 📁 _components
 │   ├── ObjectDetectionVid.jsx  # Component for real-time object detection
 │   ├── ObjectDetectionPic.jsx  # Component for image-based object detection
