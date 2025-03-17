@@ -86,7 +86,7 @@ const ObjectDetectionPic = () => {
                     <img
                         src={uploadedImage}
                         ref={imageRef}
-                        className="rounded-md w-full z-10 mt-10"
+                        className={`rounded-md w-full z-10 mt-10 ${isLoading ? 'hidden' : 'block'}`}
                         alt="Uploaded preview"
                     />
                     {/* Canvas for Drawing Bounding Boxes */}
