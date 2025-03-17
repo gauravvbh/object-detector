@@ -13,8 +13,8 @@ const ObjectDetectionPic = () => {
     const imageRef = useRef(null);
     const canvasRef = useRef(null);
 
-    console.log(imageRef)
-    console.log(canvasRef)
+    // console.log(imageRef)
+    // console.log(canvasRef)
 
     // Load AI Model & Process Image
     const handleImageUpload = useCallback(async (event) => {
