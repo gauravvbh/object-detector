@@ -26,6 +26,7 @@ const ObjectDetectionPic = () => {
         setUploadedImage(imageUrl);
         setPredictions([]);
 
+        
         const img = new Image();
         img.src = imageUrl;
         img.onload = async () => {
